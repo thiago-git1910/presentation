@@ -47,9 +47,10 @@
   <img 
     alt="Top Langs" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-git1910&layout=compact&theme=tokyonight&custom_title=Linguagens+mais+usadas&langs_count=8&hide=css"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-git1910&layout=compact&theme=tokyonight&custom_title=Linguagens+mais+usadas&langs_count=11"
   />
 </p>
+
 
 ---
 
